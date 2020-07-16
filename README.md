@@ -1,6 +1,6 @@
-> **Ph.D.** In Computer Science from the Technion, Israel.
+> **Ph.D. Student** In High Energy Physics, Technion, Israel.
 > 
-> **Researcher** with interests in Program & Binary Analysis, Security, Big Data and Big Code.
+> **Researcher** with interests in BSM physics.
 
 ### [](#projects)Projects & Interests
 
